@@ -7,7 +7,11 @@ const BannerLanding = (props) => (
                 <h1>About</h1>
             </header>
             <div className="content">
-                <p>Hey my name is taiga I'm a front-end developer.I started programming last year and I've really pasionate React also Typescript.
+                <p>Hey my name is taiga.
+             
+                    I started programming last year and I've really pasionate React also Typescript.
+           
+                    Also I interested in Learning Foreign languages .Especially , English and German and French.Free to ask me if you're interested about me 
                     
 
                     
