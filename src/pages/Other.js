@@ -1,12 +1,12 @@
 import React from 'react'
 import Helmet from 'react-helmet'
 import Layout from '../components/layout'
-import BannerLanding from '../components/BannerLanding-Skill'
+import BannerLanding from '../components/BannerLanding-Other'
 
 
 import pic11 from '../assets/images/pic11.jpg'
 
-const Myskill = (props) => (
+const Other = (props) => (
     <Layout>
         <Helmet>
             <title></title>
@@ -25,4 +25,4 @@ const Myskill = (props) => (
     </Layout>
 )
 
-export default Myskill
+export default Other

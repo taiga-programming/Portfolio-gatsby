@@ -28,7 +28,7 @@ const Portfolio = (props) => (
                     <header className="major">
                         <h3>NATOURS</h3>
                     </header>
-                    <p>This is Nouturs that I made on Udemy .Material was only css and html without Javascript . when i finsihed this site thatmoment was amazing for me .I only have done coding</p>
+                    <p>This is Nouturs that I made on Udemy .Material was only css and html without Javascript . when i finsihed this site that's moment amazing for me .I only have done coding</p>
                     <ul className="actions">
                         <li><a href="https://sharp-carson-01ebf6.netlify.app/" className="button next"/></li>  
                     </ul>
@@ -42,11 +42,11 @@ const Portfolio = (props) => (
           <div className="content">
               <div className="inner">
                   <header className="major">
-                      <h3>Rhoncus magna</h3>
+                      <h3>Chat-APP</h3>
                   </header>
-                  <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+                 <p>This is chat-app that i learned on YouTube and made it, I used Node.js and Socket and React and Express and html and css</p>
                   <ul className="actions">
-                    <li><a href="https://sharp-carson-01ebf6.netlify.app/" className="button next"/></li>  
+                    <li><a href="https://5e99eb144f0e6701720e49da--elastic-noyce-9929b7.netlify.app/" className="button next"/></li>  
                   </ul>
               </div>
           </div>
@@ -58,11 +58,27 @@ const Portfolio = (props) => (
             <div className="content">
                 <div className="inner">
                     <header className="major">
-                        <h3>Sed nunc ligula</h3>
+                        <h3>Material-UI</h3>
                     </header>
-                    <p>dnewndedn</p>
+                    <p>This site is composed by Material-UI and React Everythng I learned on Udemy</p>
                     <ul className="actions">
-                      <li><a href="https://sharp-carson-01ebf6.netlify.app/" className="button next"/></li>  
+                      <li><a href="https://material-ui-appppp.herokuapp.com/revolution " className="button next"/></li>  
+                    </ul>
+                </div>
+            </div>
+        </section>
+        <section>
+            <Link to="/portfolio" className="image">
+                <img src={pic11} alt="" />
+            </Link>
+            <div className="content">
+                <div className="inner">
+                    <header className="major">
+                        <h3>Company of development</h3>
+                    </header>
+                    <p>I did this project during intern. i used Pug(html) and Scss and Webpack and illustraor and Photoshop </p>
+                    <ul className="actions">
+                      <li><a href="http://u.taiga-blog-life.com/" className="button next"/></li>  
                     </ul>
                 </div>
             </div>
