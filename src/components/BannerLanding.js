@@ -11,7 +11,7 @@ const BannerLanding = (props) => (
              
                     I started programming last year and I've really pasionate React also Typescript.
            
-                    Also I interested in Learning Foreign languages .Especially , English and German and French.Free to ask me if you're interested about me 
+                    Also I'm interested in Learning Foreign languages .Especially , English and German and French.Free to ask me if you're interested about me 
                     
 
                     

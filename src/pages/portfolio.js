@@ -30,7 +30,7 @@ const Portfolio = (props) => (
                     </header>
                     <p>This is Nouturs that I made on Udemy .Material was only css and html without Javascript . when i finsihed this site that's moment amazing for me .I only have done coding</p>
                     <ul className="actions">
-                        <li><a href="https://sharp-carson-01ebf6.netlify.app/" className="button next"/></li>  
+                        <li><a href="https://beautiful-outdoor-blog.netlify.app/" className="button next"/></li>  
                     </ul>
                 </div>
             </div>
@@ -46,7 +46,7 @@ const Portfolio = (props) => (
                   </header>
                  <p>This is chat-app that i learned on YouTube and made it, I used Node.js and Socket and React and Express and html and css</p>
                   <ul className="actions">
-                    <li><a href="https://5e99eb144f0e6701720e49da--elastic-noyce-9929b7.netlify.app/" className="button next"/></li>  
+                    <li><a href="https://5f35aef4ffa8430094ccd1bf--distracted-easley-063353.netlify.app/" className="button next"/></li>  
                   </ul>
               </div>
           </div>
@@ -58,11 +58,11 @@ const Portfolio = (props) => (
             <div className="content">
                 <div className="inner">
                     <header className="major">
-                        <h3>Material-UI</h3>
+                        <h3>Gatsby-Wordpress</h3>
                     </header>
-                    <p>This site is composed by Material-UI and React Everythng I learned on Udemy</p>
+                    <p>This site is composed by Gatsby and Wordpress </p>
                     <ul className="actions">
-                      <li><a href="https://material-ui-appppp.herokuapp.com/revolution " className="button next"/></li>  
+                      <li><a href="https://wordpressgatsbyyyyy.netlify.app/" className="button next"/></li>  
                     </ul>
                 </div>
             </div>
@@ -74,11 +74,11 @@ const Portfolio = (props) => (
             <div className="content">
                 <div className="inner">
                     <header className="major">
-                        <h3>Company of development</h3>
+                        <h3>Corona Tracker</h3>
                     </header>
-                    <p>I did this project during intern. i used Pug(html) and Scss and Webpack and illustraor and Photoshop </p>
+                    <p>This is Corona Tracker i mimicked the design on Youtube almost same </p>
                     <ul className="actions">
-                      <li><a href="http://u.taiga-blog-life.com/" className="button next"/></li>  
+                      <li><a href="https://taiga-programming.github.io/corona-tracker/" className="button next"/></li>  
                     </ul>
                 </div>
             </div>
